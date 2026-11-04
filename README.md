@@ -47,7 +47,6 @@
 - ✅ Python
 - ✅ Cybersecurity Fundamentals
 - ✅ Network Security
-- 🔄 Google Cybersecurity Professional Certificate
 
 ---
 
@@ -83,7 +82,7 @@
 - Information Technology Fundamentals - IBM
 - Web Development Fundamentals - IBM
 - Introduction to Cybersecurity - Cisco
-- Google Cybersecurity Professional - Google (Em andamento)
+- Google Cybersecurity Professional - Google
 
 ---
 
